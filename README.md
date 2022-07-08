@@ -33,13 +33,13 @@ Currently exploring ```Blockchain```... <br/>
 
 ### Socials
 <p>
-  <a href="https://www.linkedin.com/in/ibanda-andrew-33b497194/">
+  <a href="https://www.linkedin.com/in/ibanda-andrew-33b497194/" target="_blank">
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>
   </a>
-  <a href="https://www.facebook.com/ibanda.andrew.7/">
+  <a href="https://www.facebook.com/ibanda.andrew.7/" target="_blank">
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"/>
   </a>
-  <a href="https://twitter.com/i_andr3w">
+  <a href="https://twitter.com/i_andr3w" target="_blank">
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"/>
   </a>
 </p>
