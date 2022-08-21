@@ -1,10 +1,11 @@
 <p align="center">
+    <img src="https://user-images.githubusercontent.com/89193688/177969152-9b2d19c7-4fe8-4637-8fdd-4b8ebfd332cf.png"/><br/>
   <b>Hi there 👋, am Andrew Ibanda</b><br/>
-  <img src="https://user-images.githubusercontent.com/89193688/177969152-9b2d19c7-4fe8-4637-8fdd-4b8ebfd332cf.png"
+  <b>|Software Engineer 👨‍💻 |Systems Developer 🖥 |Taurus ♉ |Conventional Wizard 🌝</b><br/>
 </p>
 
 <details>
-    <summary><b>🎁 Open me (A gift for you !) </b></summary>
+    <summary><b>🎁 Open me (My special secret) </b></summary>
     <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
 </details>  
   
