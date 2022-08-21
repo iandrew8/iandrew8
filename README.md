@@ -8,8 +8,8 @@
     <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
 </details>  
   
-Currently exploring ```Blockchain```... <br/>
-**Web3.0** enthusiast
+Currently exploring ```Web 3.0```... <br/>
+Working on Java Web Projects
   
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iandrew8&theme=dark"/>
