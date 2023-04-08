@@ -1,16 +1,11 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/89193688/177969152-9b2d19c7-4fe8-4637-8fdd-4b8ebfd332cf.png"/><br/>
   <b>Hi there 👋, am Andrew Ibanda</b><br/>
-  <b>|Software Engineer 👨‍💻 |Fullstack Developer 🖥 |Conventional Wizard 🌝</b><br/>
+  <b>Fullstack Software Engineer 🖥 </b><br/>
 </p>
-
-<details>
-    <summary><b>My first code snippet </></b></summary>
-    <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
-</details>  
   
-Currently exploring ```Web 3.0```... <br/>
-Working on Java Web Projects
+Exploring ```Web 3.0```... <br/>
+Working on Web Systems
   
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iandrew8&theme=dark"/>
