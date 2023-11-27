@@ -2,8 +2,9 @@
     <img src="https://user-images.githubusercontent.com/89193688/177969152-9b2d19c7-4fe8-4637-8fdd-4b8ebfd332cf.png"/><br/>
   <b>Hi there 👋, am Andrew Ibanda</b><br/>
   <b>Fullstack Software Engineer 🖥 </b><br/>
+	  <a href="https://app.daily.dev/andrewandy"><img src="https://api.daily.dev/devcards/9e933c0245674cfca79678171271dd91.png?r=ykx" width="400" alt="Andrew Andy's Dev Card"/></a>
 </p>
-  
+
 Exploring ```Web 3.0```... <br/>
 Working on Web Systems
   
