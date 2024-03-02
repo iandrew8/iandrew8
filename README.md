@@ -4,7 +4,7 @@
   <b>Fullstack Software Engineer 🖥 </b><br/>
 </p>
 
-Exploring ```Web 3.0```... <br/>
+Exploring ```Web 3```... <br/>
 Working on Web Systems
   
   <p>
